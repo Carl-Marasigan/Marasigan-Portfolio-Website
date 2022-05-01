@@ -1,8 +1,8 @@
-# React Nice Resume :page_with_curl:
+# Marasigan-Website-Portfolio:
 
-### [LIVE DEMO](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img.jpg?raw=true)
+
+![image](https://user-images.githubusercontent.com/90967308/166136448-6a33f169-e023-41b3-bc2b-6c139101ad05.png)
 
 # About [`particles-bg`](https://github.com/lindelof/particles-bg) Library
 #### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. Anyone can be a Musketeer with it.
@@ -10,9 +10,9 @@
 ![img](https://github.com/lindelof/particles-bg/raw/master/image/03.jpg?raw=true)
 
 # Description
-This project forks from [https://github.com/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template), I made some modifications and adjustments, thanks to the [author](https://github.com/tbakerx).
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img2.jpg?raw=true)
+![image](https://user-images.githubusercontent.com/90967308/166136475-eeaad720-289d-48f3-baa3-25383989a04f.png)
+
 
 # Run Project
 ### 1. Clone the project
