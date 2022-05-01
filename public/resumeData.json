@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name":"Carl Joseph Marasigan",
+    "description":"I' am a web developer who creates webpage layouts, writing code, editing website content, and making adjustments based on client feedback.",
+    "image":"profilepic.jpg",
+    "bio":"To obtain a responsible and challenging job and opportunity where I could practice my knowledge and develop my personality as a career person while utilizing my skills to bring out and harness for the glory of God.",
+    "contactmessage":"Contact me if you want to hire me to develop a website",
+    "email": "marasigancarljoseph@gmail.com",
+    "phone": "0912-345-6531",
+    "github":"https://github.com/Carl-Marasigan",
+    "project":"https://github.com/Carl-Marasigan?tab=repositories",
+    "address":{
+      "street":"Barangay Turbina",
+      "city":"Calamba City",
+      "state":"Laguna",
+      "zip": "4027"
+    },
+    "website": "https://carlzmarasiganz.wixsite.com/marasiganportfolio",
+    "resumedownload":"https://85bc7995-bb1e-41a9-9e30-9ffb3114b912.filesusr.com/ugd/d5166c_b4a2ed754fb74d06b1fc52ad0fe49ea9.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Carl-Marasigan",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"National University Laguna",
+        "degree":"Bacherlor of Science in Computer Science",
+        "graduated":"December 2022",
+        "description":"Basic Knowledge in Java, HTML, PHP, and Python"
+      }
+     
+    ],
+    "work":[
+      {
+        "company":"OWWA Calamba City",
+        "title":"Encoder",
+        "years":"2016",
+        "description":"Monitoring of Data and Encoding of Data"
+      }
+    
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"Laravel",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"C++",
+        "level":"60%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"NU Online Grading System",
+        "category":"Laravel",
+        "image":"02.png",
+        "url":"https://github.com/Carl-Marasigan/NU-Laguna-Online-Student-Grading-System-Laravel"
+      },
+      {
+        "title":"Yin and Yan Lost Labyrinth",
+        "category":"GODOT",
+        "image":"03.png",
+        "url":"https://github.com/Carl-Marasigan/YIN-AND-YANG-IN-THE-LOST-LABYRINTH"
+      },
+      {
+        "title":"Gadget Based E-Commerce",
+        "category":"PHP",
+        "image":"01.png",
+        "url":"https://github.com/Carl-Marasigan/Gadget-Based-E-Commerce-System---PHP"
+      },
+      {
+        "title":"NU Laguna Website",
+        "category":"WordPress",
+        "image":"04.png",
+        "url":"https://github.com/Carl-Marasigan/NU-Laguna-Website---Word-Press"
+      }
+      
+    ]
+  }
+}
